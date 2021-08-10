@@ -1,5 +1,7 @@
 ### Hi, I'm Idrees 👋 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-idrees&label=Profile%20views&color=0e75b6&style=flat" alt="Malik-Idrees" /> </p>
+
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and experimenting with them. 
