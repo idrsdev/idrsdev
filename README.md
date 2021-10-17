@@ -35,4 +35,7 @@
 
 ## 🤝🏻 &nbsp;Connect with Me 
 
-&nbsp; ![LinkenIn](https://img.shields.io/badge/LinkedIn-Malik%20Idrees-blue?style=flat-square&logo=Linkedin")
+&nbsp; [![LinkenIn](https://img.shields.io/badge/LinkedIn-Malik%20Idrees-blue?style=flat-square&logo=Linkedin")][1]
+
+
+[1]: https://www.linkedin.com/in/malik-idrees-4b7b90156
