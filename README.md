@@ -49,7 +49,7 @@
 ## 📈 &nbsp;My GitHub Stats
   
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malik-idrees&show_icons=true&theme=radical&count_private=true"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=idrsdev&show_icons=true&theme=radical&count_private=true"/> 
 </p>
 
 
