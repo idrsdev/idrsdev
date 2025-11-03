@@ -1,61 +1,65 @@
-<p align="center">
+# 👋 Hi, I'm Idrees Malik  
+**Full Stack Engineer** building scalable, cloud-native applications with **AWS Serverless** and **TypeScript**. I architect event-driven systems and integrate AI to solve real-world problems.
 
-  <h2 align="center">
-    Hi there! I'm <a href="http://malik-idrees.github.io/">Malik Idrees</a>
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving">
-  </h2>
-  <p align="center"> Full Stack Engineer 💻 </p>
-  
-</p>
- 
-## 📖 &nbsp;About Me
+You can find my articles and thoughts on [Medium](http://medium.com/@idreesdev2).
 
-- 🔭 &nbsp; I’m currently working on **NestJS / MERN Stack / TypeScript / Docker**
-- 🌱 &nbsp; I’m currently learning **Kubernetes**
-- 🎓 &nbsp; Studied Software Engineering at National University of Sciences & Technology (NUST).
-- ❤️ &nbsp; I’m looking to collaborate on open source projects
-- 💬 &nbsp; Ask me about **React, Express, NestJs, Python, Django, Docker**
+---
 
-## ⚙ &nbsp;Tech Stack
+## 📖 About Me
+- 🚀 Full Stack Engineer with **4+ years** building production systems at scale
+- 🔭 Currently focused on **AWS Serverless**, **event-driven architectures**, and **real-time systems**
+- 🤖 Integrating **AI APIs** into cloud workflows for intelligent automation
+- 🌱 Deep-diving into **cloud architecture patterns** and distributed systems
+- 💬 Ask me about **TypeScript**, **Next.js**, **NestJS**, **AWS**, or **serverless design**
+- ❤️ Open to collaborating on **open-source** or innovative **SaaS** projects
 
-- 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007396)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🎨 &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![NestJs](https://img.shields.io/badge/-NestJs-red?style=flat&logo=nestjs)
-  ![Django](https://img.shields.io/badge/-Django-008000?style=flat&logo=django)
-  ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-- 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- 🐳 &nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-- 📝 &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- ⌨️ &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+---
 
- 
-## 📈 &nbsp;My GitHub Stats
-  
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=idrsdev&show_icons=true&theme=radical&count_private=true"/> 
-</p>
+## 💎 Tech Stack
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
+
+**Cloud & Infrastructure:**  
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F00?logo=amazonapigateway)
+![AWS SAM](https://img.shields.io/badge/AWS_SAM-FF9900?logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?logo=amazonsqs&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF4F8B?logo=amazonsns&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?logo=amazons3)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+**Databases:**  
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch)
+
+**Other:**  
+![Braintree](https://img.shields.io/badge/Braintree-101010?logo=paypal)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
+![AI APIs](https://img.shields.io/badge/AI_Integrations-8A2BE2?logo=openai)
 
 
-## 🤝🏻 &nbsp;Connect with Me 
+---
 
-&nbsp; [![LinkenIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin")][1]
-&nbsp; [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)][2]
+## 📈 GitHub Stats
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=idrsdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrsdev&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-[1]: https://www.linkedin.com/in/malikidrees
-[2]: https://dev.to/malikidrees
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idrsdev)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](http://medium.com/@idreesdev2)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/idrsdev)
